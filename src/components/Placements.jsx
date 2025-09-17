@@ -18,7 +18,6 @@ const Placements = () => {
   const videosPerPage = 3
   const nextDisabled = videos.length - currentIndex <= 3
   const prevDisabled = currentIndex === 0
-  let timer = null
 
   const nextVideos = () => {
     setCurrentIndex((prevIndex) => 
