@@ -4,7 +4,7 @@ import './Placements.css'
 const Placements = () => {
   // Sample YouTube video data - replace with your actual video IDs
   const videos = [
-    { id: '2Rlrue-imXY-VE', title: 'Ruger ft Zlatan ibile - Giveaway' },
+    { id: '2Rlrue-imXY', title: 'Ruger ft Zlatan ibile - Giveaway' },
     { id: 'wnOr9sdQiNQ', title: 'Cosha TG - Big ft. Calboy' },
     { id: 'a9fC3FA41qQ', title: 'Fetty Wap - Cologne' },
     { id: '_WB4RJrrYwU', title: 'NFL Toon - Understand' },
