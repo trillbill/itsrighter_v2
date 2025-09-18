@@ -12,7 +12,7 @@ const Subscribe = () => {
         </p>
         <div className="newsletter-form">
           <form 
-            action="https://itsrighter.us2.list-manage.com/subscribe/post?u=44e32ac3eaad1a9231c74cb97&amp;id=3dc23df12b" 
+            action="https://itsrighter.us15.list-manage.com/subscribe?u=15057c33d0e712bc1ade261a0&id=f1618ab55f" 
             method="post" 
             target="_blank"
             className="mailchimp-form"
