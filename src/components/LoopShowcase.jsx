@@ -107,8 +107,8 @@ const LoopShowcase = () => {
   }
 
   const extractKey = (title) => {
-    const parts = title.split(' ')
-    return parts.find(part => /maj|min/i.test(part))
+    const key = title.split('bpm')
+    return key[1].trim()
   }
 
   const extractTempo = (title) => {
